@@ -19,6 +19,7 @@ Databases
 
 * [mongo-db~] 
 * mysql-server
+* [postgresql~]
 * [redis~]
 
 Programming Languages
