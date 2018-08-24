@@ -46,7 +46,7 @@ Misc
 
 ___________________________________________________________________________
 
-This section is for desktop applications
+Desktop Applications
 ___________________________________________________________________________
 
 Integrated Development Environments
