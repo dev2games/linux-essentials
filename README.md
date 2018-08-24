@@ -1,7 +1,9 @@
 # linux-essentials
 Essential applications for my default Linux environment
 
+--------------------------------------------------------------------------
 Legend: [] - Anything that needs to be installed using several commands. 
+--------------------------------------------------------------------------
 
 
 Web Dev
