@@ -18,6 +18,11 @@ Databases
 * mysql-server
 * [redis~]
 
+Programming Languages
+
+* [java~]
+* python3
+
 Sysadmin
 
 * tmux (Managing separate windows in the terminal
