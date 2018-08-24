@@ -38,6 +38,7 @@ Editor
 File management
 
 * ranger
+* git
 
 Misc
 
@@ -49,7 +50,8 @@ ___________________________________________________________________________
 Desktop Applications
 ___________________________________________________________________________
 
-Integrated Development Environments
+Integrated Development Environments & Editors
 
-* jetbrains toolbox + ide's
 * eclipse
+* jetbrains toolbox + ide's
+* visual studio code
