@@ -42,3 +42,14 @@ File management
 Misc
 
 * calcurse (Calendar)
+
+
+___________________________________________________________________________
+
+This section is for desktop applications
+___________________________________________________________________________
+
+Integrated Development Environments
+
+* jetbrains toolbox + ide's
+* eclipse
