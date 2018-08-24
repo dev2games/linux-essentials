@@ -1,16 +1,20 @@
 # linux-essentials
 Essential applications for my default Linux environment
 
+Legend: [] - Anything that needs to be installed using several commands. 
+
 
 Web Dev
 
 * apache2
 * npm
-* [build-essential libssl-dev nvm~] (Nvm in order to install the latest version of Nodejs)
+* [nvm~] (Nvm in order to install the latest version of Nodejs)
 
+Databases
 
-
+* [mongo-db~] 
 * mysql-server
+* [redis~]
 
 Sysadmin
 
