@@ -11,6 +11,7 @@ Web Dev
 * apache2
 * npm
 * [nvm~] (Nvm in order to install the latest version of Nodejs)
+* phpmyadmin
 
 Databases
 
@@ -22,6 +23,7 @@ Programming Languages
 
 * [java~]
 * python3
+* [c++]
 
 Sysadmin
 
