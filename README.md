@@ -12,6 +12,15 @@ Sysadmin
 * tmux (Managing separate windows in the terminal
 * htop (Task monitor)
 
+Editor
+
+* vim
+* nano
+
+File management
+
+* ranger
+
 Misc
 
 * calcurse (Calendar)
