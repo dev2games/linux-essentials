@@ -5,6 +5,11 @@ Essential applications for my default Linux environment
 Web Dev
 
 * apache2
+* npm
+* [build-essential libssl-dev nvm~] (Nvm in order to install the latest version of Nodejs)
+
+
+
 * mysql-server
 
 Sysadmin
