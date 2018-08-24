@@ -60,7 +60,7 @@ Integrated Development Environments & Editors
 
 # Web Frameworks
 
-* Django
-* Ruby on Rails
-* Spring MVC
-* Sails.js
+* django
+* ruby on rails
+* spring mvc
+* sails.js
