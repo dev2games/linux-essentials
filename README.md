@@ -55,3 +55,14 @@ Integrated Development Environments & Editors
 * eclipse
 * jetbrains toolbox + ide's
 * visual studio code
+
+
+___________________________________________________________________________
+
+Web Frameworks
+___________________________________________________________________________
+
+* Django
+* Ruby on Rails
+* Spring MVC
+* Sails.js
