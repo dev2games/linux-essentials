@@ -47,6 +47,10 @@ Misc
 
 * calcurse (Calendar)
 
+Self Hosted 
+
+* [nextcloud~] (Alternative to Cloud storage, supports desktop and mobile applications, as well as a web interface)
+* [gitlab~] (Self hosted Git web interface) 
 
 
 # Desktop Applications
