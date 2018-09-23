@@ -43,6 +43,7 @@ File management
 
 * ranger
 * git
+* ncdu -x (Ncurse Disk Utility, very useful for finding files that are taking a lot of space)
 
 Misc
 
