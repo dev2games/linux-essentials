@@ -48,6 +48,7 @@ File management
 Misc
 
 * calcurse (Calendar)
+* screenfetch (Awesome for displaying system info on bash startup)
 
 Self Hosted 
 
